@@ -4,8 +4,8 @@ role: Math PhD Student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Mathematics
+  - Economics
   - Information Retrieval
 social:
   - icon: envelope
@@ -46,9 +46,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Mathematician seeking to create accessible and empowering knowledge for all. An expert in computational complexity theory, with extensive experience in the fields of logic and descriptive set theory, real and complex analysis, topology, probability, statistics, and information theory. Antidisciplinary, always seeking to tear down academic boundaries and further develop a holistic perspective contrary to the hyperspecialization prevalent in today’s knowledge producing institutions. Those additional research interests include economics, systems theory, sociology, psychoanalysis, and history. Through my particular mathematical lens I have confidence that I can provide a novel and valuable perspective on whatever I’m looking at. These pursuits often culminate in educational videos, which can be found here.
